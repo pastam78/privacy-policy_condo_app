@@ -1,1 +1,1 @@
-# privacy-policy_condo_app
+# privacy-policy
