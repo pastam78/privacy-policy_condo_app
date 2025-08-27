@@ -49,4 +49,4 @@ Continuando a utilizzare l’app dopo la modifica, l’utente accetta implicitam
 ## 9. Contatti
 Per qualsiasi domanda o richiesta di chiarimento, puoi contattare lo sviluppatore a questo indirizzo:  
 
-**email: supporto@condominiapp.it**
+**email: ing.tammaropasquale@gmail.com**
