@@ -1,50 +1,52 @@
-Privacy Policy
+# Privacy Policy
 
-Questa applicazione gestisce i dati esclusivamente in locale, direttamente sul dispositivo dell’utente, senza alcuna condivisione o trasferimento verso server esterni, ad eccezione dei dati relativi alle pubblicità inserite dall’amministratore.
+## 1. Informazioni Generali
+Questa applicazione, denominata **CondominiApp**, è progettata per gestire interventi tecnici e pulizie nei condomini.  
+La protezione dei tuoi dati è una nostra priorità: tutte le informazioni vengono salvate **solo in locale** sul dispositivo, utilizzando un database SQLite.  
+Non è previsto alcun trasferimento o condivisione dei dati con terze parti.
 
-1. 🔹 Dati raccolti
+## 2. Tipologia di Dati Raccolti
+L’applicazione non raccoglie alcun dato personale sensibile (es. nome, email, indirizzo IP).  
+I dati gestiti sono esclusivamente quelli inseriti dall’utente e comprendono:
+- Nome del condominio
+- Programmazione pulizie (data, orario, stato)
+- Interventi tecnici (descrizione, data, spesa, note)
+- Eventuali note aggiuntive
+- Impostazioni locali di calcolo guadagni o turni lavorativi (se attivate)
 
-1.1 Salvati solo localmente (SQLite):
+## 3. Finalità del Trattamento
+I dati inseriti vengono utilizzati solo per:
+ - Consentire la gestione e pianificazione delle pulizie condominiali.
+ - Permettere l’inserimento e la consultazione degli interventi tecnici effettuati.
+ - Fornire all’utente riepiloghi e statistiche personali.
+ - Gestire i calcoli relativi a guadagni o turni, se attivati dall’utente.
 
-Informazioni inserite dall’utente per la gestione del condominio (es. pulizie, interventi, note, date).
+## 4. Modalità di Conservazione
+I dati sono archiviati **localmente** sul dispositivo, tramite database SQLite.
+Nessuna informazione viene inviata a server esterni.
+Disinstallando l’applicazione, tutti i dati salvati vengono automaticamente eliminati.
 
-Nessun dato personale identificativo (email, nome utente, ecc.) viene raccolto o richiesto.
+## 5. Consenso dell’Utente
+Al primo avvio, l’utente deve accettare questa informativa sulla privacy.  
+L’utilizzo dell’app è subordinato all’accettazione della presente informativa.  
+In assenza di consenso, l’app non potrà essere utilizzata.
 
-1.2 Salvati su Firestore (solo pubblicità):
-
-Le pubblicità inserite dall’amministratore, previo consenso dell’azienda, vengono archiviate su Firebase Firestore.
-
-Tali dati servono esclusivamente a rendere le pubblicità disponibili agli utenti entro il raggio di azione selezionato.
-
-2. 🔹 Uso dei dati
-
-I dati locali sono utilizzati unicamente per fornire le funzionalità dell’app e migliorare l’esperienza d’uso.
-
-Le pubblicità salvate su Firestore sono visibili agli utenti solo entro il raggio specificato dall’amministratore.
-
-3. 🔹 Condivisione dei dati
-
-Dati personali dell’utente: mai condivisi né trasmessi a terze parti, servizi cloud o strumenti di analisi.
-
-Pubblicità: condivise esclusivamente su Firestore e solo per scopi di visualizzazione agli utenti, previo consenso dell’azienda.
-
-4. 🔹 Conservazione dei dati
-
-I dati dell’utente sono memorizzati solo sul dispositivo tramite database SQLite.
-
-Disinstallando l’app, tutti i dati vengono cancellati definitivamente.
-
-Le pubblicità su Firestore restano disponibili finché non vengono rimosse dall’amministratore o dall’azienda.
-
-5. 🔹 Diritti dell’utente
-
+## 6. Diritti dell’Utente
 L’utente può in qualsiasi momento:
+ - Eliminare manualmente i dati inseriti.
+ - Disinstallare l’app per rimuovere in modo definitivo tutte le informazioni.
+ - Richiedere chiarimenti o supporto scrivendo all’indirizzo email fornito dallo sviluppatore.
 
-Eliminare i dati manualmente dall’app.
+## 7. Sicurezza
+Poiché i dati sono salvati solo in locale, la protezione dipende dalla sicurezza del dispositivo dell’utente.  
+Si consiglia di mantenere aggiornato il sistema operativo e proteggere il dispositivo con password o altri sistemi di blocco.
 
-Disinstallare l’app per rimuovere in modo permanente tutte le informazioni salvate.
+## 8. Modifiche alla Privacy Policy
+La presente informativa può essere aggiornata in caso di modifiche tecniche all’app.  
+In caso di aggiornamenti, la nuova versione sarà resa disponibile all’interno dell’app stessa.  
+Continuando a utilizzare l’app dopo la modifica, l’utente accetta implicitamente la nuova versione.
 
-6. 🔹 Contatti
+## 9. Contatti
+Per qualsiasi domanda o richiesta di chiarimento, puoi contattare lo sviluppatore a questo indirizzo:  
 
-Per domande o chiarimenti:
-📧 ing.tammaropasquale@gmail.com
+**email: supporto@condominiapp.it**
